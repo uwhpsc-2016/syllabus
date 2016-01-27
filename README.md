@@ -1,8 +1,14 @@
 # AMath 483/583 Spring 2016 - High Performance Scientific Computing
 
-*Instructor:* Chris Swierczewski (cswiercz)
-*In-Class Meetings:* TTh 230-330 MUE 153 (pending)
-*Video Lectures:* (tdb)
+**Instructor:** Chris Swierczewski (cswiercz)
+
+**Teaching Assistants:**
+* (tbd)
+* (tbd)
+
+**In-Class Meetings:** TTh 230-330 MUE 153 (pending)
+
+**Video Lectures:** (tdb)
 
 ## Course Description
 
