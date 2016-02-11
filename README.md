@@ -1,10 +1,10 @@
 # AMath 483/583 Spring 2016 - High Performance Scientific Computing
 
-**Instructor:** Chris Swierczewski (cswiercz)
+**Instructor:** Chris Swierczewski ([cswiercz](https://github.com/cswiercz))
 
 **Teaching Assistants:**
-* (tbd)
-* (tbd)
+* 483 - Sean Santos (github id)
+* 583 - Meghana Velegar (github id)
 
 **In-Class Meetings:** TTh 230-330 MUE 153 (pending)
 
