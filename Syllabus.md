@@ -24,4 +24,8 @@ This is a detailed, week-by-week description of topics covered in the course.
 
 ## Week 10: 30 May - 3 June
 
-## Final Exam:
+## Final Exam
+
+Tuesday, 7 June 2016
+1030am - 1220pm
+LOW 206
