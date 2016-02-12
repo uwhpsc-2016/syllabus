@@ -3,8 +3,8 @@
 **Instructor:** Chris Swierczewski ([cswiercz](https://github.com/cswiercz))
 
 **Teaching Assistants:**
-* 483 - Sean Santos (github id)
-* 583 - Meghana Velegar (github id)
+* 483 - Sean Santos (quantheory)
+* 583 - Meghana Velegar (mvelegar)
 
 **In-Class Meetings:** TTh 230-330 MUE 153 (pending)
 

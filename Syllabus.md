@@ -2,7 +2,7 @@
 
 This is a detailed, week-by-week description of topics covered in the course.
 
-> NOTE: This syllabus is tentative and subject to change until the start of the cousre.
+> NOTE: This syllabus is tentative and subject to change until the start of the course.
 
 ## Week 1: 28 March - 1 April
 
@@ -23,8 +23,8 @@ This is a detailed, week-by-week description of topics covered in the course.
 ## Week 3: 11 April - 15 April
 
 * **Homework #1 Due**
-* Tue: C++ - introduction, syntax
-* Thu: C++ - libraries, make, and makefiles
+* Tue: C++ - Introduction, syntax
+* Thu: C++ - Libraries, make, and makefiles
 
 ## Week 4: 18 April - 22 April
 
@@ -52,7 +52,7 @@ This is a detailed, week-by-week description of topics covered in the course.
 ## Week 7: 9 May - 13 May
 
 * **Homework #3 Due**
-* Tue: Introduction to MPO
+* Tue: Introduction to MPI
 * Thu: More on MPI
 
 ## Week 8: 16 May - 20 May
