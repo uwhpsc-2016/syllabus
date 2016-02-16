@@ -23,6 +23,13 @@ Along the way there will also be discussion of software engineering tools such a
 
 ## Prerequisites
 
+**Minimum:**
+* CSE 142 or AMath 301
+* Linear Algebra
+
+**Recommended:**
+* Programming experience beyond MATLAB (e.g. Python, C)
+
 ## Detailed Information
 
 * [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md)
