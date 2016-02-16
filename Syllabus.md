@@ -12,12 +12,7 @@ This is a detailed, week-by-week description of topics covered in the course.
 
 ## Week 2: 4 April - 8 April
 
-* Tue: Python
-  * data types
-  * modules
-  * timing
-  * testing
-  * Numpy, Scipy, and Matplotlib.
+* Tue: Python - data types, modules, timing, testing, Numpy, Scipy, and Matplotlib.
 * Thu: Git and GitHub.
 
 ## Week 3: 11 April - 15 April
@@ -28,14 +23,9 @@ This is a detailed, week-by-week description of topics covered in the course.
 
 ## Week 4: 18 April - 22 April
 
-* **Homework #1 Peer-Review Due**
-* Tue: Performance Considerations Part I
-  * computer arithmetic
-  * memory management
-* Thu: Performance Considerations Part II
-  * cache
-  * optimization
-  * measuring performance
+* **Quiz #1*
+* Tue: Performance Considerations Part I - computer arithmetic and memory management
+* Thu: Performance Considerations Part II - cache, optimization, measuring performance
 
 ## Week 5: 25 April - 29 April
 
@@ -45,7 +35,7 @@ This is a detailed, week-by-week description of topics covered in the course.
 
 ## Week 6: 2 May - 6 May
 
-* **Homework #2 Peer-Review Due**
+* **Quiz #2**
 * Tue: More on OpenMP
 * Thu: Test case - Jacobi, Gauss-Seidel, and SOR
 
@@ -57,9 +47,9 @@ This is a detailed, week-by-week description of topics covered in the course.
 
 ## Week 8: 16 May - 20 May
 
-* **Homework #3 Peer-Review Due**
+* **Quiz #3**
 * Tue: Test case - Jacobi, Gauss-Seidel, and SOR
-* Thu:
+* Thu: 
 
 ## Week 9: 23 May - 27 May
 
@@ -69,7 +59,7 @@ This is a detailed, week-by-week description of topics covered in the course.
 
 ## Week 10: 30 May - 3 June
 
-* **Homework #4 Peer-Review Due**
+* **Quiz #4*
 * Tue:
 * Thu:
 
