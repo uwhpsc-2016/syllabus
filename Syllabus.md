@@ -23,8 +23,8 @@ This is a detailed, week-by-week description of topics covered in the course.
 ## Week 3: 11 April - 15 April
 
 * **Homework #1 Due**
-* Tue: C++ - Introduction, syntax
-* Thu: C++ - Libraries, make, and makefiles
+* Tue: C - Introduction, syntax
+* Thu: C - Libraries, make, and makefiles
 
 ## Week 4: 18 April - 22 April
 
