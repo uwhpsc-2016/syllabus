@@ -13,6 +13,11 @@
 **Course Chat Room:**
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
+## Additional Important Information
+
+* [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md)
+* [Grading Policy](https://github.com/uwhpsc-2016/syllabus/blob/master/Grading.md)
+
 ## Course Description
 
 Computation and simulation are increasingly important in all aspects of science and engineering. At the same time writing efficient computer programs to take full advantage of current computers is becoming increasingly difficult. Even laptops now have 4 or more processors, but using them all to solve a single problem faster often requires rethinking the algorithm to introduce parallelism, and then programming in a language that can express this parallelism. Writing efficient programs also requires some knowledge of machine arithmetic, computer architecture, and memory hierarchies.
@@ -23,14 +28,7 @@ Along the way there will also be discussion of software engineering tools such a
 
 ## Prerequisites
 
-**Minimum:**
 * CSE 142 or AMath 301
 * Linear Algebra
 
-**Recommended:**
-* Programming experience beyond MATLAB (e.g. Python, C)
-
-## Detailed Information
-
-* [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md)
-* [Grading Policy](https://github.com/uwhpsc-2016/syllabus/blob/master/Grading.md)
+It is recommended, but not necessary, that the student have programming experience beyond that taught in AMath 301. The course will be taught in Python and C. Experience in these languages help. Although we will spend some time becoming acquainted with these languages we will quickly move on to solving computational science problems with them. At the very least, the student should have a firm grasp of basic programmatical constructs. (conditional statements, loops, array manipulation)
