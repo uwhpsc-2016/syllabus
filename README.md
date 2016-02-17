@@ -3,20 +3,21 @@
 **Instructor:** Chris Swierczewski ([cswiercz](https://github.com/cswiercz))
 
 **Teaching Assistants:**
-* 483 - Sean Santos (quantheory)
-* 583 - Meghana Velegar (mvelegar)
+* 483 - Sean Santos ([quantheory](https://github.com/quantheory))
+* 583 - Meghana Velegar ([mvelegar](https://github.com/mvelegar))
 
-**In-Class Meetings:** TTh 230-330 MUE 153 (pending)
+**In-Class Meetings:** TTh 800-930 LOW 206
 
-**Video Lectures:** (tdb)
+**EDGE Videos:** (tdb)
 
 **Course Chat Room:**
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 ## Additional Important Information
 
-* [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md)
-* [Grading Policy](https://github.com/uwhpsc-2016/syllabus/blob/master/Grading.md)
+* [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md) - detailed course syllabus, day-by-day lectures, homework due dates, quiz dates
+* [Grading Policy](https://github.com/uwhpsc-2016/syllabus/blob/master/Grading.md) - how the course homework, quizzes, and final project will be graded,
+* [Asking Questions](https://github.com/uwhpsc-2016/syllabus/blob/master/AskingQuestions.md) - course rules on posting questions in the course chat and issues pages, list of resources on various topics
 
 ## Course Description
 
