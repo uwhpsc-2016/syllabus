@@ -7,8 +7,8 @@ This document outlines how the course will be graded.
 Assignment | % of Grade
 -----------|-----------
 4 homework assignments | 40% of grade
-4 in-class quizzes     | 40% of grade
-1 final project        | 20% of grade
+8 online quizzes       | 40% of grade
+1 final project/exam   | 20% of grade
 
 ## Academic Integrity
 
@@ -111,7 +111,7 @@ Details:
 
 * **performance**
   
-  Because this is a course on high-performance computing some of your code will be judged based on performance. While testing the correctness of your code it will be timed. The run times of every student's code will be collected and we will determine the average run time across all submissions. Performance score is based on which standard deviation your runtime will fall in.
+Because this is a course on high-performance computing some of your code will be judged based on performance. While testing the correctness of your code it will be timed. The run times of every student's code will be collected and we will determine the average run time across all submissions. Performance score is based on which standard deviation your runtime will fall in.
 
   Std. Deviation | Points Awarded
   ---------------|---------------
