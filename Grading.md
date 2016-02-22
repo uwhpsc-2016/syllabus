@@ -100,7 +100,6 @@ Details:
           (Description of output)
       arg2 : type, return by reference
           (Description of output)
-      """
   */
   double my_function(int, double*);  // function prototype
   
@@ -108,7 +107,6 @@ Details:
   {
     // function body goes here
   }
-  /*
   ```
 
 * **performance**
