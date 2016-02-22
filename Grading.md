@@ -10,6 +10,25 @@ Assignment | % of Grade
 4 in-class quizzes     | 40% of grade
 1 final project        | 20% of grade
 
+## Academic Integrity
+
+Non-group programming assignments and quizzes must be completed indiviudally and all work must be your own. All students must abide by the following rules:
+* you may not work as a partner with another student on an assignment,
+* you may not show your solutions to another student or look at their solution,
+* you may not discuss homework solutions in the course chat room or on the Issues pages,
+
+We enforce these policies by periodically running similarity detection software over all submitted code. Students who violate this policy will receive zero scores on their submissions.
+
+We encourage appropriate forms of collaboration during this course such as,
+* asking for help in understanding a part of a lecture,
+* assistance in the use of a software tool or library outside the context of a homework assignment,
+* requesting a reference on a given software tool or library,
+* discussion of topics beyond the scope of this course.
+
+The instructors and teaching assistants hope that the student understands these policies are in place to help the student achieve a firm grasp of the course material. Cheating does not result in understanding and any assignments submitted which is not the product of your own hard work is a detriment only to yourself and your education.
+
+The University of Washington explains academic integrity very clearly in the [Student Academic Responsibility](https://depts.washington.edu/grading/pdf/AcademicResponsibility.pdf) guide.
+
 ## Homework
 
 See the [example-python-homework]https://github.com/uwhpsc-2016/example-python-homework) and [example-c-homework](https://github.com/uwhpsc-2016/example-c-homework) for examples on how the homework will be presented. This will be discussed at length in class.
