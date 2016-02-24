@@ -1,3 +1,5 @@
+> **Disclaimer**: The content of this document and the other documents in this repository are subject to change until the start of the Spring 2016 Quarter.
+
 # AMath 483/583 Spring 2016 - High Performance Scientific Computing
 
 **Instructor:** Chris Swierczewski ([cswiercz](https://github.com/cswiercz))
