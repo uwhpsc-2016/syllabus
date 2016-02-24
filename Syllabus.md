@@ -7,9 +7,9 @@ This is a detailed, week-by-week description of topics covered in the course. We
 ## Week 1: 28 March - 1 April
 
 * Tue: Course overview, syllabus, and goals. Setting up your compute environment. Introduction to Unix.
-  * Primary Reference: 
+  * Primary Reference: [LinuxTutorial](http://ryanstutorials.net/linuxtutorial/) Sections 1-5,7
 * Thu: Introduction to Python.
-  * Primary Reference: 
+  * Primary Reference: [Official Python Tutorial](https://docs.python.org/2.7/tutorial/index.html) Sections 3,4,5,6,14
 
 ## Week 2: 4 April - 8 April
 
