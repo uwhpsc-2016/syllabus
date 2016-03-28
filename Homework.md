@@ -6,7 +6,7 @@ Here we describe how to obtain and submit the software portion of the bi-weekly 
 
 In this section we describe how to properly obtain a personal, private copy of the assignment respository using Classrooms for GitHub.
 
-1. **Follow the Invitation Link** The instructor will send out a link to the assignment. The link will look something like this: https://classroom.github.com/assignment-invitations/fed4a4bece59804c6f448ad6b4278050 *(Please do not follow this link since a finite number of private assignment repositories have been allocated.)*
+1. **Follow the Invitation Link** The instructor will send out a link to the assignment. The link will look something like this: https://classroom.github.com/assignment-invitations/fed4a4bece59804c6f448ad6b4278050 ***(Please do not follow this link since a finite number of private assignment repositories have been allocated.)***
 2. **Accept the Assignment** A webpage will open where GitHub will request that you accept the assignment. Click *"Accept this assignment"* so that your personal (and private) repository can be created. ![Step 2](images/assignment-2.png)
 3. **Allow GitHub Permission to Access Information** (This may occur.) In order for the assignment to be created Classroom for GitHub needs access to some of the information posted in your GitHub account.
 4. **Confirmation** You should receive confirmation that a copy of the assignment has been created for you as well as a link to the assignment repository. ![Step 4](images/assignment-4.png)
