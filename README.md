@@ -10,7 +10,7 @@
 
 **In-Class Meetings:** TTh 800-930 LOW 206
 
-**EDGE Videos:** (tdb)
+**Lecture Recordings:** https://mediasite6.pce.uw.edu/Mediasite/Catalog/catalogs/16amath583
 
 **Course Chat Room:**
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
