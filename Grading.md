@@ -31,7 +31,7 @@ The University of Washington explains academic integrity very clearly in the [St
 
 ## Homework
 
-See the [example-python-homework]https://github.com/uwhpsc-2016/example-python-homework) and [example-c-homework](https://github.com/uwhpsc-2016/example-c-homework) for examples on how the homework will be presented. This will be discussed at length in class.
+See the [example-python-homework](https://github.com/uwhpsc-2016/example-python-homework) and [example-c-homework](https://github.com/uwhpsc-2016/example-c-homework) for examples on how the homework will be presented. This will be discussed at length in class.
 
 Each homework assignment will be graded based on several components:
 * 60 / 100 points - code passes tests
