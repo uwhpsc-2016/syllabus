@@ -2,7 +2,7 @@
 
 # Course Syllabus
 
-This is a detailed, week-by-week description of topics covered in the course. Weekly quizzes are due by X. Biweekly homework is automatically collected on X. Each lesson contains a "Primary Reference"; an online resource containing information in addition to what we discussed in lecture. The student is expected to study these references before the following lecture.
+This is a detailed, week-by-week description of topics covered in the course. Weekly quizzes are open on Mondays at 4:15pm PST and close at 4:45pm PST and are designed to test your knowledge of the content of the previous week's lectures and "Primary References". Biweekly homework is automatically collected on Monday at 5:00pm PST, no exceptions. Make sure you've updated your homework repository by then.
 
 ## Week 1: 28 March - 1 April
 
