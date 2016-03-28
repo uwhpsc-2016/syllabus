@@ -17,6 +17,7 @@
 
 ## Additional Important Information
 
+* [New Student Checklist](https://github.com/uwhpsc-2016/syllabus/blob/master/NewStudentChecklist.md) - a list of accounts you should create and websites you should check as soon as possible
 * [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md) - detailed course syllabus, day-by-day lectures, homework due dates, quiz dates
 * [Grading Policy](https://github.com/uwhpsc-2016/syllabus/blob/master/Grading.md) - how the course homework, quizzes, and final project will be graded,
 * [Asking Questions](https://github.com/uwhpsc-2016/syllabus/blob/master/AskingQuestions.md) - course rules on posting questions in the course chat and issues pages, list of resources on various topics
