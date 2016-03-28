@@ -130,5 +130,6 @@ The window available for taking the quiz will be Mondays from 4:15pm to 4:45pm P
 ## Final Examination
 
 The final examination consists of two parts:
+
 1. **Final Project** - similar in format to the homework. You will be asked to write some code and run it against an unknown test suite.
 2. **Final Exam** - a short, written exam designed to test you on the concepts learned in the course. You may be asked to write code by hand. The exam should take no more than 30-45 minutes.
