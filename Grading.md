@@ -123,8 +123,12 @@ Because this is a course on high-performance computing some of your code will be
 
 ## Quizzes
 
-Every other week we will have an in-class quiz.
+Every Monday you will be given a short quiz on the contents of the lectures from the previous week as well as the content in the "Primary References" for those lectures. (See the [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md) for the Primary Reference(s) associated with each lecture.)
+
+The window available for taking the quiz will be Mondays from 4:15pm to 4:45pm PST. Once you begin the quiz you will have 15 minutes to complete the quiz. Questions will usually take the form of *multiple choice*, *multiple answer*, *numerical answer*, or sometimes *fill in the blank*.
 
 ## Final Examination
 
-The final project 
+The final examination consists of two parts:
+1. **Final Project** - similar in format to the homework. You will be asked to write some code and run it against an unknown test suite.
+2. **Final Exam** - a short, written exam designed to test you on the concepts learned in the course. You may be asked to write code by hand. The exam should take no more than 30-45 minutes.
