@@ -21,6 +21,7 @@
 * [Asking Questions](https://github.com/uwhpsc-2016/syllabus/blob/master/AskingQuestions.md) - course rules on posting questions in the course chat and issues pages, list of resources on various topics
 * [Canvas Page](https://canvas.uw.edu/courses/1038251) - quizzes are administered here. 
 * [About the Homework](https://github.com/uwhpsc-2016/syllabus/blob/master/Homework.md) - how to obtain, complete, and submit the bi-weekly homework.
+* [Lectures](https://github.com/uwhpsc-2016/lectures) - slides, code, and notes from each lecture
 
 ## Course Description
 
