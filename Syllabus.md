@@ -7,21 +7,30 @@ This is a detailed, week-by-week description of topics covered in the course. We
 ## Week 1: 28 March - 1 April
 
 * Tue: Course overview, syllabus, and goals. Setting up your compute environment. Introduction to Unix.
-  * Primary Reference: [LinuxTutorial](http://ryanstutorials.net/linuxtutorial/) Sections 1-5,7
-* Thu: Introduction to Python.
+  * Primary Reference: [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) Sections 1,2,3,4,5,7
+* Thu: Introduction to Git
+  * Primary Reference: [Official Git Documentation](https://git-scm.com/doc) Chapters 1,2,3
+  * Additional References:
+    * [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
+    * [Understanding GitHub Flow](https://guides.github.com/introduction/flow/)
+    * [Hello World](https://guides.github.com/activities/hello-world/)
+* **Additional Work** Learn Python
   * Primary Reference: [Official Python Tutorial](https://docs.python.org/2.7/tutorial/index.html) Sections 3,4,5,6,14
+  * Additional References:
+    * [Codeacademy's Python Course](https://www.codecademy.com/learn/python)
+    * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
 ## Week 2: 4 April - 8 April
 
-* **Quiz #1: Prerequisites and Python**
+* **Quiz #1: Python, Unix, and Basic Git**
 * Tue: Python - data types, modules, timing, testing, Numpy, Scipy, and Matplotlib.
   * Primary Reference:
-* Thu: Git and GitHub.
+* Thu: More Git and Introduction to Cython
   * Primary Reference:
 
 ## Week 3: 11 April - 15 April
 
-* **Quiz #2: Numpy and Git**
+* **Quiz #2: Numpy and Cython**
 * Tue: C - Introduction, syntax
   * Primary Reference:
 * Thu: C - Multi-file programs, libraries, make, and makefiles
