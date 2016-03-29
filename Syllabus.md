@@ -1,6 +1,16 @@
 # Course Syllabus
 
-This is a detailed, week-by-week description of topics covered in the course. Weekly quizzes are open on Mondays at 4:15pm PST and close at 4:45pm PST and are designed to test your knowledge of the content of the previous week's lectures and "Primary References". Biweekly homework is automatically collected on Monday at 5:00pm PST, no exceptions. Make sure you've updated your homework repository by then.
+This is a detailed, week-by-week description of topics covered in the course. Here we will post the lecture content and lecture references as well the homework and quiz scheudles.
+
+Weekly quizzes are designed to test your knowledge of the content of the previous week's lectures and the "Primary References" listed.
+* **Mondays from 6:00pm PST to 6:30pm PST**
+* Once you begin you will have **15 minutes** to complete the quiz.
+* If you want the full 15 minutes then begin the quiz before 6:15pm PST.
+* You cannot pause the quiz and resume at a later time, even within the window.
+
+Biweekly homework is automatically collected every other **Monday at 5:00pm PST**, no exceptions.
+* Be sure your in-class git repository is updated with both your code and your written report.
+* We will automatically clone your repos at 5:00pm PST.
 
 ## Week 1: 28 March - 1 April
 
