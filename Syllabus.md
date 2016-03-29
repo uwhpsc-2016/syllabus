@@ -3,10 +3,13 @@
 This is a detailed, week-by-week description of topics covered in the course. Here we will post the lecture content and lecture references as well the homework and quiz scheudles.
 
 Weekly quizzes are designed to test your knowledge of the content of the previous week's lectures and the "Primary References" listed.
-* **Mondays from 6:00pm PST to 6:30pm PST**
+
 * Once you begin you will have **15 minutes** to complete the quiz.
-* If you want the full 15 minutes then begin the quiz before 6:15pm PST.
+* If you want the full 15 minutes then begin the quiz 15 minutes before the end of the window.
 * You cannot pause the quiz and resume at a later time, even within the window.
+* Quiz Window:
+  * AMath 483A,B and 583A,C - **Monday, 6:30pm - 7:00pm PST**
+  * AMath 583B - Monday, **5:00pm - 7:00pm PST**
 
 Biweekly homework is automatically collected every other **Monday at 5:00pm PST**, no exceptions.
 * Be sure your in-class git repository is updated with both your code and your written report.
@@ -31,7 +34,9 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 ## Week 2: 4 April - 8 April
 
 * **Quiz #1: Python, Unix, and Basic Git**
-  * *Note: different time and duration than usual.* **30 minute window** between **6:00pm and 7:00pm PST**.
+  * *Note: the quiz windows and quiz time limit will be extended*
+    * AMath 483A,B and 583A,C - **Monday, 6:30pm - 7:30pm PST, 30 minutes timed**
+    * AMath 583B - Monday, **5:00pm - 7:00pm PST, 30 minutes timed**
 * Tue: Python - data types, modules, timing, testing, Numpy, Scipy, and Matplotlib.
   * Primary Reference:
 * Thu: More Git and Introduction to Cython
