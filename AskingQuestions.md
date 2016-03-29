@@ -1,7 +1,5 @@
 # Asking Questions and Receiving Help 
 
-> NOTE: This grading policy is tentative and subject to change until the start of the course.
-
 In AMath 483/583 there are many ways you can receive help from the instructor, TAs, and other students in the course. 
 
 * [Gitter Chatroom](https://gitter.im/uwhpsc-2016) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)

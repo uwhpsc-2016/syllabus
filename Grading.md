@@ -2,8 +2,6 @@
 
 This document outlines how the course will be graded.
 
-> NOTE: This grading policy is tentative and subject to change until the start of the course.
-
 Assignment | % of Grade
 -----------|-----------
 4 homework assignments | 40% of grade

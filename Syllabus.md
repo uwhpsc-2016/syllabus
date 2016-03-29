@@ -1,5 +1,3 @@
-> **Disclaimer:** The content of this document and the other documents in this repository are subject to change until the start of the Spring 2016 Quarter.
-
 # Course Syllabus
 
 This is a detailed, week-by-week description of topics covered in the course. Weekly quizzes are open on Mondays at 4:15pm PST and close at 4:45pm PST and are designed to test your knowledge of the content of the previous week's lectures and "Primary References". Biweekly homework is automatically collected on Monday at 5:00pm PST, no exceptions. Make sure you've updated your homework repository by then.
