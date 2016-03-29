@@ -37,6 +37,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
   * *Note: the quiz windows and quiz time limit will be extended*
     * AMath 483A,B and 583A,C - **Monday, 6:30pm - 7:30pm PST, 30 minutes timed**
     * AMath 583B - Monday, **5:00pm - 7:00pm PST, 30 minutes timed**
+* **Homework #1 Assigned**
 * Tue: Python - data types, modules, timing, testing, Numpy, Scipy, and Matplotlib.
   * Primary Reference:
 * Thu: More Git and Introduction to Cython
@@ -54,6 +55,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 
 * **Quiz #3: C**
 * **Homework #1 Due**
+* **Homework #2 Assigned**
 * Tue: Performance Considerations Part I - computer arithmetic and memory management
   * Primary Reference:
 * Thu: Performance Considerations Part II - cache, optimization, measuring performance
@@ -71,6 +73,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 
 * **Quiz #5: Parallel Programming and OpenMP Basics**
 * **Homework #2 Due**
+* **Homework #3 Assigned**
 * Tue: OpenMP Design Patterns
   * Primary Reference:
 * Thu: Test case - Jacobi, Gauss-Seidel, and SOR
@@ -88,6 +91,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 
 * **Quiz #7: MPI**
 * **Homework #3 Due**
+* **Homework #4 Assigned**
 * Tue: Load Balancing, Granularity, Recursion
   * Primary Reference:
 * Thu: Test case - Jacobi, Gauss-Seidel, and SOR
@@ -103,7 +107,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 
 ## Week 10: 30 May - 3 June
 
-* **Quiz #9:**
+* **No Quiz**
 * **Homework #4 Due**
 * Tue: CUDA and GPU Programming
   * Primary Reference:
