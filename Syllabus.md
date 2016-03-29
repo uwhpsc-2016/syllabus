@@ -23,6 +23,7 @@ This is a detailed, week-by-week description of topics covered in the course. We
 ## Week 2: 4 April - 8 April
 
 * **Quiz #1: Python, Unix, and Basic Git**
+  * *Note: different time and duration than usual. 30 minute window between 4:00pm and 5:00pm, PST*
 * Tue: Python - data types, modules, timing, testing, Numpy, Scipy, and Matplotlib.
   * Primary Reference:
 * Thu: More Git and Introduction to Cython
