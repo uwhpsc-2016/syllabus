@@ -1,15 +1,19 @@
 # Asking Questions and Receiving Help 
 
-In AMath 483/583 there are many ways you can receive help from the instructor, TAs, and other students in the course. 
+In AMath 483/583 there are many ways you can receive help from the instructor, TAs, and other students in the course. *Students are encouraged to help others using the below resources*.
 
-* [Gitter Chatroom](https://gitter.im/uwhpsc-2016) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-  * Online Office Hours: TBD
+* Online Office Hours: *times when the instructor and TAs answer questions in the chatroom and issues pages*
+  * **Wednesday:** 11am-12pm PST (Sean), 6pm-7pm PST (Meghana)
+  * **Thursday:** 11am-12pm PST (Chris), 6pm-7pm PST (Sean)
+  * **Friday:** 11am-12pm PST (Meghana)
+  * *note that there are no office hours on Monday when the homework is due*
+* [Gitter Chatroom](https://gitter.im/uwhpsc-2016/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 * Issues pages in homework repositories
   * Example: [Issues Page](https://github.com/uwhpsc-2016/example-python-homework/issues) from [example-python-homework](https://github.com/uwhpsc-2016/example-python-homework)
   * Example: [Example issue](https://github.com/uwhpsc-2016/example-python-homework/issues/1) from [example-python-homework](https://github.com/uwhpsc-2016/example-python-homework)
 * In-class
 
-For the benefit of fellow students and the instructors please follow these general rules when posting on the message board.
+For the benefit of fellow students, the instructor, and teaching assistants please follow these general rules when posting on the message board.
  
 ## Do...
 * ...post questions about lectures and homework.
