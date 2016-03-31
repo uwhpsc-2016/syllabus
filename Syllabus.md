@@ -21,13 +21,15 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
   * Primary Reference: [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) Sections 1,2,3,4,5,7
 * Thu: Introduction to Git
   * Primary Reference: [Official Git Documentation](https://git-scm.com/doc) Chapters 1,2,3
-  * Additional References:
+  * Secondary References:
     * [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
     * [Understanding GitHub Flow](https://guides.github.com/introduction/flow/)
     * [Hello World](https://guides.github.com/activities/hello-world/)
+    * [Contributing to Open Source](https://guides.github.com/activities/contributing-to-open-source/)
+    * [GitHub and Git Foundataions Training](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 * **Additional Work** Learn Python
   * Primary Reference: [Official Python Tutorial](https://docs.python.org/2.7/tutorial/index.html) Sections 3,4,5,6,14
-  * Additional References:
+  * Secondary References:
     * [Codeacademy's Python Course](https://www.codecademy.com/learn/python)
     * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
