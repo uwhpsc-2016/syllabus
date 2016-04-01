@@ -36,9 +36,15 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 * **Quiz #1: Python, Unix, and Basic Git**
   * *Note: you will have 30 minutes to complete this quiz instead of the usual 15.*
 * **Homework #1 Assigned**
-* Tue: Python - data types, modules, timing, testing, Numpy, Scipy, and Matplotlib.
-  * Primary Reference:
-* Thu: More Git and Introduction to Cython
+* Tue: How to Homework, more on Git, Numpy and Matplotlib
+  * Primary References:
+    * [Numpy Quickstart Guide](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+    * [Matplotlib Pyplot Tutorial](matplotlib.org/users/pyplot_tutorial.html)
+  * Secondary References:
+    * [Complete Numpy Reference Manual](http://docs.scipy.org/doc/numpy/reference/)
+    * [Matplotlib Image Gallery](http://matplotlib.org/gallery.html) *(Click a picture and see how to make it.)*
+    * [Why are numpy arrays so fast](http://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast) (*A stackoverflow question*)
+* Thu: Basics of Computer Hardware and Arithmetic
   * Primary Reference:
 
 ## Week 3: 11 April - 15 April
