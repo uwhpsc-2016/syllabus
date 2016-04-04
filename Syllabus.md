@@ -40,7 +40,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 * Tue: How to Homework, more on Git, Numpy and Matplotlib
   * Primary References:
     * [Numpy Quickstart Guide](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
-    * [Matplotlib Pyplot Tutorial](matplotlib.org/users/pyplot_tutorial.html)
+    * [Matplotlib Pyplot Tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
   * Secondary References:
     * [Complete Numpy Reference Manual](http://docs.scipy.org/doc/numpy/reference/)
     * [Matplotlib Image Gallery](http://matplotlib.org/gallery.html) *(Click a picture and see how to make it.)*
@@ -50,7 +50,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 
 ## Week 3: 11 April - 15 April
 
-* **Quiz #2: Numpy and Cython**
+* **Quiz #2: Numpy, Matplotlib, and Basics of Computer Hardware**
 * Tue: C - Introduction, syntax
   * Primary Reference:
 * Thu: C - Multi-file programs, libraries, make, and makefiles
