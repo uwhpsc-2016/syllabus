@@ -29,8 +29,6 @@ The University of Washington explains academic integrity very clearly in the [St
 
 ## Homework
 
-See the [example-python-homework](https://github.com/uwhpsc-2016/example-python-homework) and [example-c-homework](https://github.com/uwhpsc-2016/example-c-homework) for examples on how the homework will be presented. This will be discussed at length in class.
-
 Each homework assignment will be graded based on several components:
 * 60 / 100 points - code passes tests
 * 20 / 100 points - well-written report and analysis
@@ -40,9 +38,17 @@ Each homework assignment will be graded based on several components:
 Details:
 * **code passes tests**
 
-  Every student's code will be run against an automated test suite. A sample / toy test suite will be supplied with every homework assignment. This supplied test suite will be there to make sure your code compiles well against our own tests suite and that your implementation conforms to certain function prototypes and interfaces.
+Every student's code will be run against an automated test suite using Python's `unittest` module. A sample / toy test suite will be supplied with every homework assignment. This supplied test suite will be there to make sure your code compiles well against our own tests suite and that your implementation conforms to certain function prototypes and interfaces.
   
-  Your code will be subjected to these tests as well as some "hidden" tests written by the instructor and TAs. We will describe these hidden tests (in words) with each homework but it will be up to the student to write their own tests, unless they wish to submit their homework based on faith.
+When submitted, your code will be subjected to a "hidden" test suite written by the instructor and TAs. We will describe these hidden tests (in words) with each homework but it will be up to the student to write their own tests unless they wish to submit their homework based on faith. The purpose of this method is to encourage testing of your own work and to learn how to write automated tests using a well-known unit testing package.
+  
+The toy test suite included with the assignment can be run from the top-level assignment directory like so:
+
+```bash
+$ python test_homework1.py  # or whatever the name is of the test suite
+```
+
+The functions that you have written will be imported and run against any tests that you have written in the test suite.
   
 * **well-written report and analysis**
  
@@ -75,7 +81,7 @@ Details:
       # function body goes here.
   ```
   
-  C code should be similarly documented. If a parameter is return by reference then be sure to indicate as such. Documentation should be provided for every function appearing in a header file. It is not necessary to duplicate the docstring for both the function prototype in the header and the function body in the source files. However, every function without a corresponding function prototype should be documented.
+  C code should be similarly documented. If a parameter is returned by reference then be sure to indicate as such. Documentation should be provided for every function appearing in a header file. It is not necessary to duplicate the docstring for both the function prototype in the header and the function body in the source files. However, every function without a corresponding function prototype should be documented.
   
   ```c
   /*
@@ -121,13 +127,11 @@ Because this is a course on high-performance computing some of your code will be
 
 ## Quizzes
 
-Every Monday you will be given a short quiz on the contents of the lectures from the previous week as well as the content in the "Primary References" for those lectures. (See the [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md) for the Primary Reference(s) associated with each lecture.)
-
-The window available for taking the quiz will be Mondays from 4:15pm to 4:45pm PST. Once you begin the quiz you will have 15 minutes to complete the quiz. Questions will usually take the form of *multiple choice*, *multiple answer*, *numerical answer*, or sometimes *fill in the blank*.
+Every Monday you will be given a short quiz on the contents of the lectures from the previous week as well as the content in the "Primary References" for those lectures. See the [Course Syllabus](https://github.com/uwhpsc-2016/syllabus/blob/master/Syllabus.md) for the Primary Reference(s) associated with each lecture as well as information on when the quiz is administrated, how much time you have to do the quiz, etc.
 
 ## Final Examination
 
 The final examination consists of two parts:
 
-1. **Final Project** - similar in format to the homework. You will be asked to write some code and run it against an unknown test suite.
-2. **Final Exam** - a short, written exam designed to test you on the concepts learned in the course. You may be asked to write code by hand. The exam should take no more than 30-45 minutes.
+1. **Final Project** - similar in format to the homework. You will be asked to write some code and run it against an unknown test suite as well as write up a short report.
+2. **Final Exam** - a short, written exam designed to test you on the concepts learned in the course. You may be asked to write code by hand. The exam should take approximately 45 minutes.
