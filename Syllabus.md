@@ -59,7 +59,6 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 ## Week 4: 18 April - 22 April
 
 * **Quiz #3: C**
-* **Homework #1 Due**
 * **Homework #2 Assigned**
 * Tue: Performance Considerations Part I - computer arithmetic and memory management
   * Primary Reference:
@@ -69,6 +68,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 ## Week 5: 25 April - 29 April
 
 * **Quiz #4: Performance Considerations**
+* **Homework #1 Due**
 * Tue: Introduction to parallel programming concepts and OpenMP
   * Primary Reference:
 * Thu: More on OpenMP
