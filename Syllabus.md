@@ -4,10 +4,11 @@ This is a detailed, week-by-week description of topics covered in the course. He
 
 Weekly quizzes are designed to test your knowledge of the content of the previous week's lectures and the "Primary References" listed.
 
-* Once you begin you will have **15 minutes** to complete the quiz.
+* Once you begin you will have **20 minutes** to complete the quiz.
 * You have one attempt.
-* If you want the full 15 minutes then begin the quiz 15 minutes before the end of the window.
+* If you want the full 20 minutes then begin the quiz 15 minutes before the end of the window.
 * You cannot pause the quiz and resume at a later time, even within the window.
+* Questions will be presented one at a time. Once you answer a question you cannot return to it.
 * Quiz Window: **Sunday, 5:00pm PST - Tuesday, 5:00am PST**
 
 Biweekly homework is automatically collected every other **Monday at 5:00pm PST**, no exceptions.
