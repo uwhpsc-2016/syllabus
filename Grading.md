@@ -37,18 +37,18 @@ Each homework assignment will be graded based on several components:
 
 Details:
 * **code passes tests**
-
-Every student's code will be run against an automated test suite using Python's `unittest` module. A sample / toy test suite will be supplied with every homework assignment. This supplied test suite will be there to make sure your code compiles well against our own tests suite and that your implementation conforms to certain function prototypes and interfaces.
   
-When submitted, your code will be subjected to a "hidden" test suite written by the instructor and TAs. We will describe these hidden tests (in words) with each homework but it will be up to the student to write their own tests unless they wish to submit their homework based on faith. The purpose of this method is to encourage testing of your own work and to learn how to write automated tests using a well-known unit testing package.
+  Every student's code will be run against an automated test suite using Python's `unittest` module. A sample / toy test suite will be supplied with every homework assignment. This supplied test suite will be there to make sure your code compiles well against our own tests suite and that your implementation conforms to certain function prototypes and interfaces.
   
-The toy test suite included with the assignment can be run from the top-level assignment directory like so:
+  When submitted, your code will be subjected to a "hidden" test suite written by the instructor and TAs. We will describe these hidden tests (in words) with each homework but it will be up to the student to write their own tests unless they wish to submit their homework based on faith. The purpose of this method is to encourage testing of your own work and to learn how to write automated tests using a well-known unit testing package.
+  
+  The toy test suite included with the assignment can be run from the top-level assignment directory like so:
 
-```bash
-$ python test_homework1.py  # or whatever the name is of the test suite
-```
+  ```bash
+  $ python test_homework1.py  # or whatever the name is of the test suite
+  ```
 
-The functions that you have written will be imported and run against any tests that you have written in the test suite.
+  The functions that you have written in the `homeworkN` Python module or `lib` directory (for C library code) will be imported and run against any tests that you have written in the test suite. Remember to compile your C code first before running the test suite.
   
 * **well-written report and analysis**
  
