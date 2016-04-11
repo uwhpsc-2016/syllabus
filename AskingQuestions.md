@@ -32,25 +32,3 @@ For the benefit of fellow students, the instructor, and teaching assistants plea
 ## How to Ask a Good Question
 
 Please refrain from asking questions along the lines of *"My code doesn't compile! Please help!"* Doing so will decrease the chance that the instructor, TAs, or even fellow students will help. Instead, try to be as specific as possible. Use the suggestions outlined in [Stack Overflow How to Ask](http://stackoverflow.com/questions/ask/advice?) for tips on asking good questions.
-
-Questions posted on an Issues Page about **homework** will not be answered, and will be deleted, unless they adhere to the following format:
-
-```
-(Title) (Provide in Issue Title)
-
-# Description
-
-(A short description of the problem.)
-
-# Attempted Fixes
-
-(Describe what you did while attempting to fix the problem.)
-
-# Error Message(s)
-
-(Verbatim copy the compile or runtime error messages here. If there are no
-errors but there is incorrect output, provide the test that you used to
-determine that the output is incorrect as well as a plot, if applicable.)
-```
-
-Questions about lecture material or high performance computing subject matter in general need not adhere to this specific format but should be descriptive and follow the suggestions in [Stack Overflow How to Ask](http://stackoverflow.com/questions/ask/advice?).
