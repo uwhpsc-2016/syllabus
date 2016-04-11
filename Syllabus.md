@@ -60,8 +60,12 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 * **Quiz #2: Numpy, Matplotlib, and Basics of Computer Hardware**
 * Tue: C - Introduction, syntax
   * Primary Reference:
-* Thu: C - Multi-file programs, libraries, make, and makefiles
-  * Primary Reference:
+    * The following lessons from [Cprogramming.com - Introduction to C](http://www.cprogramming.com/tutorial/c/lesson1.html) *(see "Tutorial Map" on left side of page)*: Intro, If Statements, Loops, Functions, Pointers, Arrays, Typecasting
+    * [Wiki - C Dynamic Memory Allocation](https://en.wikipedia.org/wiki/C_dynamic_memory_allocation)
+  * Secondary References:
+    * [Learn C the Hard Way](http://c.learncodethehardway.org/book/)
+* Thu: C - More C and Multi-file programs, libraries, make, and makefiles
+  * Primary Reference: [Makefiles for Everyone](http://www.cs.usask.ca/staff/oster/makefiles.html)
 
 ## Week 4: 18 April - 22 April
 
