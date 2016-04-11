@@ -54,6 +54,8 @@ The functions that you have written will be imported and run against any tests t
  
   Every homework assignment will have a handful of questions where the student will need to write some exposition. This may involve deriving certain formulae, determining the computational complexity of a certain algorithm, or plot and describe some results.
 
+  This report should be written up in a PDF file titled `report.pdf` located in the directory `report` of the homework repository.
+
 * **code documentation**
  
   Good code is code that not only runs well but is well-understood by others. Your code will be graded for cleanliness and sufficient documentation. In particular, every Python function you write should have a docstring with the following formatting, similar to the formatting used in [Numpydoc]
