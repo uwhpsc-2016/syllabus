@@ -3,8 +3,9 @@
 In AMath 483/583 there are many ways you can receive help from the instructor, TAs, and other students in the course. *Students are encouraged to help others using the below resources*.
 
 * Online Office Hours: *times when the instructor and TAs answer questions in the chatroom and issues pages*
+  * **Tuesday:** 12pm-1pm PST (Chris)
   * **Wednesday:** 11am-12pm PST (Sean), 6pm-7pm PST (Meghana)
-  * **Thursday:** 11am-12pm PST (Chris), 6pm-7pm PST (Sean)
+  * **Thursday:** 12pm-1pm PST (Chris), 6pm-7pm PST (Sean)
   * **Friday:** 11am-12pm PST (Meghana)
   * *note that there are no office hours on Monday when the homework is due*
 * [Gitter Chatroom](https://gitter.im/uwhpsc-2016/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
