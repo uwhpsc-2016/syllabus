@@ -33,3 +33,19 @@ For the benefit of fellow students, the instructor, and teaching assistants plea
 ## How to Ask a Good Question
 
 Please refrain from asking questions along the lines of *"My code doesn't compile! Please help!"* Doing so will decrease the chance that the instructor, TAs, or even fellow students will help. Instead, try to be as specific as possible. Use the suggestions outlined in [Stack Overflow How to Ask](http://stackoverflow.com/questions/ask/advice?) for tips on asking good questions.
+
+## If Your Question Must Be Specific to Your Homework Solution
+
+Sometimes, it is difficult or impossible to reformulate your programming problem in such a way that it doesn't reveal a solution, partial or complete, to the class. If your question *absolutely cannot be abstracted from the homework* you can always create an issue in your **private repository**. These issues are inaccessible to the other students in the course so anything you say within the "private issue" can make use of the specifics of your code implementation.
+
+When creating an issue, be sure to "@-mention" the instructors and TAs by typing
+
+```
+@uwhpsc-2016/instructors @uwhpsc-2016/tas
+
+(... rest of the issue text ...)
+```
+
+into the issue creation text box just in case we do not receive notification that your issue has been created.
+
+It is preferrable that you have pushed your code to your private GitHub repository so the instructor and teaching assistants can view your results thus far and better comment on your solution approach.
