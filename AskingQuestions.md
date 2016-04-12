@@ -36,7 +36,7 @@ Please refrain from asking questions along the lines of *"My code doesn't compil
 
 ## If Your Question Must Be Specific to Your Homework Solution
 
-Sometimes, it is difficult or impossible to reformulate your programming problem in such a way that it doesn't reveal a solution, partial or complete, to the class. If your question *absolutely cannot be abstracted from the homework* you can always create an issue in your **private repository**. These issues are inaccessible to the other students in the course so anything you say within the "private issue" can make use of the specifics of your code implementation.
+Sometimes, it is difficult or impossible to reformulate your programming problem in such a way that it doesn't reveal a solution, partial or complete, to the class. If your question *cannot be reformulated in such a way* you can always create an issue in your **private repository**. These issues are inaccessible to the other students in the course so anything you say within the "private issue" can make use of the specifics of your code implementation.
 
 When creating an issue, be sure to "@-mention" the instructors and TAs by typing
 
