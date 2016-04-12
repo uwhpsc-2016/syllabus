@@ -36,7 +36,7 @@ Please refrain from asking questions along the lines of *"My code doesn't compil
 
 ## If Your Question Must Be Specific to Your Homework Solution
 
-Sometimes, it is difficult or impossible to reformulate your programming problem in such a way that it doesn't reveal a solution, partial or complete, to the class. If your question *cannot be reformulated in such a way* you can always create an issue in your **private repository**. These issues are inaccessible to the other students in the course so anything you say within the "private issue" can make use of the specifics of your code implementation.
+Sometimes, it is difficult or impossible to reformulate your programming problem in such a way that it doesn't reveal a solution, partial or complete, to the class. If your question *cannot be reformulated in such a way* you can always **create an issue in your private repository**. These issues are inaccessible to the other students in the course so anything you say within the "private issue" can make use of the specifics of your code implementation.
 
 When creating an issue, be sure to "@-mention" the instructors and TAs by typing
 
@@ -46,6 +46,6 @@ When creating an issue, be sure to "@-mention" the instructors and TAs by typing
 (... rest of the issue text ...)
 ```
 
-into the issue creation text box just in case we do not receive notification that your issue has been created.
+into the issue creation text box just in case we do not receive notification that your issue has been created. Again, **make sure this issue is created in the repository titled `homeworkn-yourgithubusername`, not in `homeworkn`**.
 
 It is preferrable that you have pushed your code to your private GitHub repository so the instructor and teaching assistants can view your results thus far and better comment on your solution approach.
