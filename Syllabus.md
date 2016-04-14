@@ -47,7 +47,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
     * [Matplotlib Image Gallery](http://matplotlib.org/gallery.html) *(Click a picture and see how to make it.)*
     * [Why are numpy arrays so fast](http://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast) (*A stackoverflow question*)
 * Thu: Basics of Computer Hardware and Arithmetic
-   * Primary References:
+  * Primary References:
     * [Memory Hierarchy](https://en.wikipedia.org/wiki/Memory_hierarchy)
     * [Stack Overflow: Where are the stack and heap](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
   * Secondary References:
