@@ -60,12 +60,15 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 * **Quiz #2: Numpy, Matplotlib, and Basics of Computer Hardware**
 * Tue: C - Introduction, syntax
   * Primary Reference:
-    * The following lessons from [Cprogramming.com - Introduction to C](http://www.cprogramming.com/tutorial/c/lesson1.html) *(see "Tutorial Map" on left side of page)*: Intro, If Statements, Loops, Functions, Pointers, Arrays, Typecasting
+    *[Cprogramming.com - Introduction to C](http://www.cprogramming.com/tutorial/c/lesson1.html) *(see "Tutorial Map" on left side of page)* Lessons: Intro, If Statements, Loops, Functions, Pointers, Arrays, Typecasting
     * [Wiki - C Dynamic Memory Allocation](https://en.wikipedia.org/wiki/C_dynamic_memory_allocation)
   * Secondary References:
     * [Learn C the Hard Way](http://c.learncodethehardway.org/book/)
-* Thu: C - More C and Multi-file programs, libraries, make, and makefiles
-  * Primary Reference: [Makefiles for Everyone](http://www.cs.usask.ca/staff/oster/makefiles.html)
+* Thu: C - Function, Arrays on the Stack and Heap
+  * Primary Reference:
+    * [Arrays in C](https://www.cs.swarthmore.edu/~newhall/unixhelp/C_arrays.html)
+  * Secondary References:
+    * [uwhpsc-2016/lectures#2](https://github.com/uwhpsc-2016/lectures/issues/2) - articles on how heap allocations are managed. Can be considered too deep for our purposes but interesting, nonetheless. Thinking in terms of memory locations.
 
 ## Week 4: 18 April - 22 April
 
