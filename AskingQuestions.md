@@ -3,8 +3,9 @@
 In AMath 483/583 there are many ways you can receive help from the instructor, TAs, and other students in the course. *Students are encouraged to help others using the below resources*.
 
 * Online Office Hours: *times when the instructor and TAs answer questions in the chatroom and issues pages*
+  * **Tuesday:** 12pm-1pm PST (Chris)
   * **Wednesday:** 11am-12pm PST (Sean), 6pm-7pm PST (Meghana)
-  * **Thursday:** 11am-12pm PST (Chris), 6pm-7pm PST (Sean)
+  * **Thursday:** 12pm-1pm PST (Chris), 6pm-7pm PST (Sean)
   * **Friday:** 11am-12pm PST (Meghana)
   * *note that there are no office hours on Monday when the homework is due*
 * [Gitter Chatroom](https://gitter.im/uwhpsc-2016/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/uwhpsc-2016/uwhpsc-2016?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
@@ -33,24 +34,18 @@ For the benefit of fellow students, the instructor, and teaching assistants plea
 
 Please refrain from asking questions along the lines of *"My code doesn't compile! Please help!"* Doing so will decrease the chance that the instructor, TAs, or even fellow students will help. Instead, try to be as specific as possible. Use the suggestions outlined in [Stack Overflow How to Ask](http://stackoverflow.com/questions/ask/advice?) for tips on asking good questions.
 
-Questions posted on an Issues Page about **homework** will not be answered, and will be deleted, unless they adhere to the following format:
+## If Your Question Must Be Specific to Your Homework Solution
+
+Sometimes, it is difficult or impossible to reformulate your programming problem in such a way that it doesn't reveal a solution, partial or complete, to the class. If your question *cannot be reformulated in such a way* you can always **create an issue in your private repository**. These issues are inaccessible to the other students in the course so anything you say within the "private issue" can make use of the specifics of your code implementation.
+
+When creating an issue, be sure to "@-mention" the instructors and TAs by typing
 
 ```
-(Title) (Provide in Issue Title)
+@uwhpsc-2016/instructors @uwhpsc-2016/tas
 
-# Description
-
-(A short description of the problem.)
-
-# Attempted Fixes
-
-(Describe what you did while attempting to fix the problem.)
-
-# Error Message(s)
-
-(Verbatim copy the compile or runtime error messages here. If there are no
-errors but there is incorrect output, provide the test that you used to
-determine that the output is incorrect as well as a plot, if applicable.)
+(... rest of the issue text ...)
 ```
 
-Questions about lecture material or high performance computing subject matter in general need not adhere to this specific format but should be descriptive and follow the suggestions in [Stack Overflow How to Ask](http://stackoverflow.com/questions/ask/advice?).
+into the issue creation text box just in case we do not receive notification that your issue has been created. Again, **make sure this issue is created in the repository titled `homeworkn-yourgithubusername`, not in `homeworkn`**.
+
+It is preferrable that you have pushed your code to your private GitHub repository so the instructor and teaching assistants can view your results thus far and better comment on your solution approach.

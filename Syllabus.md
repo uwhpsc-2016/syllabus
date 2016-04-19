@@ -4,10 +4,11 @@ This is a detailed, week-by-week description of topics covered in the course. He
 
 Weekly quizzes are designed to test your knowledge of the content of the previous week's lectures and the "Primary References" listed.
 
-* Once you begin you will have **15 minutes** to complete the quiz.
+* Once you begin you will have **20 minutes** to complete the quiz.
 * You have one attempt.
-* If you want the full 15 minutes then begin the quiz 15 minutes before the end of the window.
+* If you want the full 20 minutes then begin the quiz 15 minutes before the end of the window.
 * You cannot pause the quiz and resume at a later time, even within the window.
+* Questions will be presented one at a time. Once you answer a question you cannot return to it.
 * Quiz Window: **Sunday, 5:00pm PST - Tuesday, 5:00am PST**
 
 Biweekly homework is automatically collected every other **Monday at 5:00pm PST**, no exceptions.
@@ -46,7 +47,7 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
     * [Matplotlib Image Gallery](http://matplotlib.org/gallery.html) *(Click a picture and see how to make it.)*
     * [Why are numpy arrays so fast](http://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast) (*A stackoverflow question*)
 * Thu: Basics of Computer Hardware and Arithmetic
-   * Primary References:
+  * Primary References:
     * [Memory Hierarchy](https://en.wikipedia.org/wiki/Memory_hierarchy)
     * [Stack Overflow: Where are the stack and heap](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
   * Secondary References:
@@ -59,8 +60,15 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 * **Quiz #2: Numpy, Matplotlib, and Basics of Computer Hardware**
 * Tue: C - Introduction, syntax
   * Primary Reference:
-* Thu: C - Multi-file programs, libraries, make, and makefiles
+    *[Cprogramming.com - Introduction to C](http://www.cprogramming.com/tutorial/c/lesson1.html) *(see "Tutorial Map" on left side of page)* Lessons: Intro, If Statements, Loops, Functions, Pointers, Arrays, Typecasting
+    * [Wiki - C Dynamic Memory Allocation](https://en.wikipedia.org/wiki/C_dynamic_memory_allocation)
+  * Secondary References:
+    * [Learn C the Hard Way](http://c.learncodethehardway.org/book/)
+* Thu: C - Function, Arrays on the Stack and Heap
   * Primary Reference:
+    * [Arrays in C](https://www.cs.swarthmore.edu/~newhall/unixhelp/C_arrays.html)
+  * Secondary References:
+    * [uwhpsc-2016/lectures#2](https://github.com/uwhpsc-2016/lectures/issues/2) - articles on how heap allocations are managed. Can be considered too deep for our purposes but interesting, nonetheless. Thinking in terms of memory locations.
 
 ## Week 4: 18 April - 22 April
 
