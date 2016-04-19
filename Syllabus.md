@@ -74,9 +74,13 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 
 * **Quiz #3: C**
 * **Homework #2 Assigned**
-* Tue: Performance Considerations Part I - computer arithmetic and memory management
+* Tue: Multi-file C Programs
   * Primary Reference:
-* Thu: Performance Considerations Part II - cache, optimization, measuring performance
+    * [Guide: Makefiles](http://www.delorie.com/djgpp/doc/ug/larger/makefiles.html) - there are many Makefile tutorials online. This one encompasses most of what you need to know for this class.
+    * [Sage Tutorial: Ctypes](http://doc.sagemath.org/html/en/thematic_tutorials/numerical_sage/ctypes.html) - nice summary of ctypes with applications
+  * Secondary Reference:
+    * [GNU make](https://www.gnu.org/software/make/manual/make.html#Introduction) - a more in-depth (and official) guide to makefiles
+* Thu: Performance Considerations - cache, optimization, measuring performance
   * Primary Reference:
 
 ## Week 5: 25 April - 29 April
