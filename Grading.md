@@ -87,9 +87,7 @@ The functions that you have written will be imported and run against any tests t
   /*
       my_function
       
-      (one-line description of function)
-      
-      (extended description of function)
+      (description of function)
       
       Parameters
       ----------
@@ -105,12 +103,7 @@ The functions that you have written will be imported and run against any tests t
       arg2 : type, return by reference
           (Description of output)
   */
-  double my_function(int, double*);  // function prototype
-  
-  double my_function(int arg1, double* arg2)
-  {
-    // function body goes here
-  }
+  double my_function(int arg1, double* arg2);  // function prototype
   ```
 
 * **performance**
