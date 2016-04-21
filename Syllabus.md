@@ -81,10 +81,12 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
   * Secondary Reference:
     * [GNU make](https://www.gnu.org/software/make/manual/make.html#Introduction) - a more in-depth (and official) guide to makefiles
 * Thu: Performance Considerations - cache, optimization, measuring performance
-  * Secondary Reference:
-    * [Locality of Reference](https://en.wikipedia.org/wiki/Locality_of_reference) - Wikipedia
-    * [What is Cache Friendly Code](http://stackoverflow.com/a/16699282/645494) - a great summary from SO. 
-    * [Three Optimization Tips for C++](https://www.facebook.com/notes/facebook-engineering/three-optimization-tips-for-c/10151361643253920) - from Facebook Engineering
+  * Primary Reference:
+    * * [Locality of Reference](https://en.wikipedia.org/wiki/Locality_of_reference) - Wikipedia,
+  * Secondary References:
+    * [What is Cache Friendly Code](http://stackoverflow.com/a/16699282/645494) - a great summary from SO,
+    * [Three Optimization Tips for C++](https://www.facebook.com/notes/facebook-engineering/three-optimization-tips-for-c/10151361643253920) - from Facebook Engineering,
+    * [What is Branch Predicition?](http://stackoverflow.com/a/11227902/645494) - excellent SO response,
 
 ## Week 5: 25 April - 29 April
 
