@@ -11,7 +11,7 @@ Weekly quizzes are designed to test your knowledge of the content of the previou
 * Questions will be presented one at a time. Once you answer a question you cannot return to it.
 * Quiz Window: **Sunday, 5:00pm PST - Tuesday, 5:00am PST**
 
-Biweekly homework is automatically collected every other **Monday at 5:00pm PST**, no exceptions.
+Biweekly homework is automatically collected every other **Friday at 5:00pm PST**, no exceptions.
 * Be sure your in-class git repository is updated with both your code and your written report.
 * We will automatically clone your repos at 5:00pm PST.
 
@@ -100,12 +100,12 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 ## Week 6: 2 May - 6 May
 
 * **Quiz #5: Parallel Programming and OpenMP Basics**
-* **Homework #2 Due**
-* **Homework #3 Assigned**
 * Tue: OpenMP Design Patterns
   * Primary Reference:
 * Thu: Test case - Jacobi, Gauss-Seidel, and SOR
   * Primary Reference:
+* **Homework #3 Assigned**
+* **Fri: Homework #2 Due @ 5:00pm**
 
 ## Week 7: 9 May - 13 May
 
@@ -118,12 +118,12 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 ## Week 8: 16 May - 20 May
 
 * **Quiz #7: MPI**
-* **Homework #3 Due**
-* **Homework #4 Assigned**
 * Tue: Load Balancing, Granularity, Recursion
   * Primary Reference:
 * Thu: Test case - Jacobi, Gauss-Seidel, and SOR
   * Primary Reference:
+* **Homework #4 Assigned**
+* **Fri: Homework #3 Due @ 5:00pm**
 
 ## Week 9: 23 May - 27 May
 
@@ -135,12 +135,12 @@ Biweekly homework is automatically collected every other **Monday at 5:00pm PST*
 
 ## Week 10: 30 May - 3 June
 
-* **No Quiz**
-* **Homework #4 Due**
+* **Quiz #9: Sparse Matrices**
 * Tue: CUDA and GPU Programming
   * Primary Reference:
 * Thu: IO and Databases
   * Primary Reference:
+* **Fri: Homework #4 Due @ 5:00pm**
 
 ## Final Exam
 
