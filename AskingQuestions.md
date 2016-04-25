@@ -3,6 +3,7 @@
 In AMath 483/583 there are many ways you can receive help from the instructor, TAs, and other students in the course. *Students are encouraged to help others using the below resources*.
 
 * Online Office Hours: *times when the instructor and TAs answer questions in the chatroom and issues pages*
+  * **Monday:** 4pm-5pm PST (Chris)
   * **Tuesday:** 12pm-1pm PST (Chris)
   * **Wednesday:** 11am-12pm PST (Sean), 6pm-7pm PST (Meghana)
   * **Thursday:** 12pm-1pm PST (Chris), 6pm-7pm PST (Sean)
