@@ -94,7 +94,10 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 * **Homework #1 Due**
 * Tue: Introduction to parallel programming concepts and OpenMP
   * Primary Reference:
-* Thu: More on OpenMP
+    * [Thread (wikipedia)](https://en.wikipedia.org/wiki/Thread_(computing)) - dense, but at least read sections 1,2,3,4
+  * Secondary Reference:
+    * [POSIX Threads (wikipedia)](https://en.wikipedia.org/wiki/POSIX_Threads) - example of the kind of code that OpenMP and MPI generate
+* Thu: OpenMP
   * Primary Reference:
 
 ## Week 6: 2 May - 6 May
