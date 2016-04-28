@@ -99,6 +99,9 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
     * [POSIX Threads (wikipedia)](https://en.wikipedia.org/wiki/POSIX_Threads) - example of the kind of code that OpenMP and MPI generate
 * Thu: OpenMP
   * Primary Reference:
+    * [OpenMP](https://computing.llnl.gov/tutorials/openMP/) - read to "Work-Sharing Constructs DO / for Directive", about 1/3 down the page. Reads more like a reference but has very useful information.
+  * Secondary Reference:
+    * [Intro. to OpenMP - Tim Mattson](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG) - nice collection of YouTube videos from Intel. Talks about parallelism from a very basic perspective. The slower pace is good if you're having trouble wrapping your head around parallelism.
 
 ## Week 6: 2 May - 6 May
 
