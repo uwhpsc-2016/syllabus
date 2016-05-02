@@ -99,23 +99,26 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
     * [POSIX Threads (wikipedia)](https://en.wikipedia.org/wiki/POSIX_Threads) - example of the kind of code that OpenMP and MPI generate
 * Thu: OpenMP
   * Primary Reference:
-    * [OpenMP](https://computing.llnl.gov/tutorials/openMP/) - read to "Work-Sharing Constructs DO / for Directive", about 1/3 down the page. Reads more like a reference but has very useful information.
+    * [OpenMP](https://computing.llnl.gov/tutorials/openMP/) - read through "Work-Sharing Constructs DO / for Directive", about 1/3 down the page. Reads more like a reference but has very useful information.
   * Secondary Reference:
     * [Intro. to OpenMP - Tim Mattson](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG) - nice collection of YouTube videos from Intel. Talks about parallelism from a very basic perspective. The slower pace is good if you're having trouble wrapping your head around parallelism.
 
 ## Week 6: 2 May - 6 May
 
 * **Quiz #5: Parallel Programming and OpenMP Basics**
-* Tue: OpenMP Design Patterns
+* Tue: More on OpenMP
   * Primary Reference:
-* Thu: Test case - Jacobi, Gauss-Seidel, and SOR
+    * [OpenMP](https://computing.llnl.gov/tutorials/openMP/) - *read the following sections:* SECTIONS Directive, Synchronization Constructs (just after "OpenMP Exercise 2"), MASTER Directive, CRITICAL Directive, BARRIER Directive, ATOMIC Directive, REDUCTION Clause (later in the document)
+  * Secondary Reference:
+    * [A cache miss is not a cache miss](http://larshagencpp.github.io/blog/2016/05/01/a-cache-miss-is-not-a-cache-miss) - an article I came across over the weekend about cache misses. Not necessarily about OpenMP, nor actually about C, (the author uses C++) but nonetheless interesting. A light C++ background might be needed to understand what's going on.
+* Thu: Running Example - Estimating Pi
   * Primary Reference:
 * **Homework #3 Assigned**
 * **Fri: Homework #2 Due @ 5:00pm**
 
 ## Week 7: 9 May - 13 May
 
-* **Quiz #6: Advanced OpenMP**
+* **Quiz #6: OpenMP**
 * Tue: Introduction to MPI
   * Primary Reference:
 * Thu: More on MPI
@@ -126,7 +129,7 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 * **Quiz #7: MPI**
 * Tue: Load Balancing, Granularity, Recursion
   * Primary Reference:
-* Thu: Test case - Jacobi, Gauss-Seidel, and SOR
+* Thu: 
   * Primary Reference:
 * **Homework #4 Assigned**
 * **Fri: Homework #3 Due @ 5:00pm**
