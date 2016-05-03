@@ -110,6 +110,7 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
   * Primary Reference:
     * [OpenMP](https://computing.llnl.gov/tutorials/openMP/) - *read the following sections:* SECTIONS Directive, Synchronization Constructs (just after "OpenMP Exercise 2"), MASTER Directive, CRITICAL Directive, BARRIER Directive, ATOMIC Directive, REDUCTION Clause (later in the document)
   * Secondary Reference:
+    * [Difference between `omp critical` and `omp atomic`](http://stackoverflow.com/a/7798994/645494) - A Stackoverflow response discussing the performance differences between critical regions and atomics
     * [A cache miss is not a cache miss](http://larshagencpp.github.io/blog/2016/05/01/a-cache-miss-is-not-a-cache-miss) - an article I came across over the weekend about cache misses. Not necessarily about OpenMP, nor actually about C, (the author uses C++) but nonetheless interesting. A light C++ background might be needed to understand what's going on.
 * Thu: Running Example - Estimating Pi
   * Primary Reference:
