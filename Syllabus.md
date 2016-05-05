@@ -115,6 +115,9 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 * Thu: Running Example - Estimating Pi
   * Primary Reference:
     * [32 OpenMP Traps for C++ Developers](http://www.viva64.com/en/a/0054/) - although the title mentions C++ nearly all of the code examples do not use the features of C++. You do not need to read the items on OpenMP functions that we haven't talked about in class (e.g. `flush`, `ordered`, info about locks) but you may be interested, nonetheless.
+  * Secondary Reference:
+    * [Wiki - False Sharing](https://en.wikipedia.org/wiki/False_sharing)
+    * [Wiki - Cache Coherency](https://en.wikipedia.org/wiki/Cache_coherence) - particularly, the article on [bus sniffing / snooping](https://en.wikipedia.org/wiki/Bus_sniffing) is a common implementation of cache coherence
 * **Homework #3 Assigned**
 * **Fri: Homework #2 Due @ 5:00pm**
 
