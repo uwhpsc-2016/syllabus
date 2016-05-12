@@ -129,6 +129,7 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 * Thu: More on MPI
   * Primary Reference:
   * Secondary References:
+    * [MPI Standard](http://www.mpi-forum.org/docs/mpi-3.1/mpi31-report/mpi31-report.htm) - the reference guide to the MPI 3.1 standard. does not read like a tutorial but is comprehensive.
     * [MPI's Send Modes](http://www.mcs.anl.gov/research/projects/mpi/sendmode.html) - default, guaranteed blocking, and non-blocking versions of `MPI_Send`.
     * [Difference between `MPI_Send` and `MPI_Ssend`](http://stackoverflow.com/a/17593678/645494) - pretty good SO repsonse on differences.
 
