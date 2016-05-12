@@ -125,9 +125,9 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 
 * **Quiz #6: OpenMP**
 * Tue: Introduction to MPI
-  * Primary Reference:
 * Thu: More on MPI
   * Primary Reference:
+    * [MPI Tutorial](http://mpitutorial.com/tutorials/) - a nice tutorial on the basic and key types of operations in MPI.
   * Secondary References:
     * [MPI Standard](http://www.mpi-forum.org/docs/mpi-3.1/mpi31-report/mpi31-report.htm) - the reference guide to the MPI 3.1 standard. does not read like a tutorial but is comprehensive.
     * [MPI's Send Modes](http://www.mcs.anl.gov/research/projects/mpi/sendmode.html) - default, guaranteed blocking, and non-blocking versions of `MPI_Send`.
