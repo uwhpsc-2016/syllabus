@@ -128,6 +128,8 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
   * Primary Reference:
 * Thu: More on MPI
   * Primary Reference:
+  * Secondary References:
+    * [MPI's Send Modes](http://www.mcs.anl.gov/research/projects/mpi/sendmode.html) - default, guaranteed blocking, and non-blocking versions of `MPI_Send`.
 
 ## Week 8: 16 May - 20 May
 
