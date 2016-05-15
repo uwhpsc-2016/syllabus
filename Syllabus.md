@@ -153,7 +153,6 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 
 ## Week 10: 30 May - 3 June
 
-* **Quiz #9: Sparse Matrices**
 * Tue: CUDA and GPU Programming - Part 1
 * Thu: CUDA and GPU Programming - Part 2
   * Primary Reference:
