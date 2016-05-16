@@ -136,10 +136,13 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 ## Week 8: 16 May - 20 May
 
 * **Quiz #7: MPI**
-* Tue: Load Balancing, Granularity, Recursion
+* Tue: Advanced Point-to-Point Commuinication
   * Primary Reference:
-* Thu: 
+    * 
+* Thu: Running MPI from Python - `mpi4py` 
   * Primary Reference:
+  * Secondary Reference:
+    * [Writing Paralell Libraries with MPI](http://htor.inf.ethz.ch/publications/img/hoefler-mpi-libraries.pdf) - an interesting summary article on techniques for writing shared object libraries that run on MPI.
 * **Homework #4 Assigned**
 * **Fri: Homework #3 Due @ 5:00pm**
 
