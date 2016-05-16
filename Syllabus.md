@@ -155,7 +155,10 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 
 * Tue: CUDA and GPU Programming - Part 1
 * Thu: CUDA and GPU Programming - Part 2
-  * Primary Reference:
+  * [CUDA Quickstart Guide](http://developer.download.nvidia.com/compute/cuda/7.5/Prod/docs/sidebar/CUDA_Quick_Start_Guide.pdf) - how to get CUDA installed and configured on your system. (WIN/OSX/LINUX)
+  * [CUDA Programming Guide](http://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) - nearly everything you need to know about writing CUDA code. 
+  * [CUDA Toolkit Documentation](http://docs.nvidia.com/cuda/index.html#axzz48mypHkfM) - collection of guides and documentation for CUDA related things. Includes the two guides above.
+  * [CUDA by Example](https://developer.nvidia.com/cuda-example) - an excellent book for getting started with CUDA programming. As the title implies, there are many good examples throughout the book.
 * **Fri: Homework #4 Due @ 5:00pm**
 
 ## Final Exam
