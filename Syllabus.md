@@ -138,11 +138,12 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 * **Quiz #7: MPI**
 * Tue: Advanced Point-to-Point Commuinication
   * Primary Reference:
-    * 
-* Thu: Running MPI from Python - `mpi4py` 
-  * Primary Reference:
   * Secondary Reference:
     * [Writing Paralell Libraries with MPI](http://htor.inf.ethz.ch/publications/img/hoefler-mpi-libraries.pdf) - an interesting summary article on techniques for writing shared object libraries that run on MPI.
+* Thu: Adaptive Quadrature, Recursion, and Load Balancing
+  * Primary Reference:
+  * Secondary Reference:
+    * [Running MPI Jobs](https://www.open-mpi.org/faq/?category=running#mpirun-specify-hosts) - guide on running MPI code. in particular, how to run on remote machines.2
 * **Homework #4 Assigned**
 * **Fri: Homework #3 Due @ 5:00pm**
 
