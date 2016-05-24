@@ -170,4 +170,11 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
 
 Tuesday, 7 June 2016 <br />
 1030am - 1220pm <br />
-LOW 206 (Pending)
+SMI 205
+
+# Parting Words of Wisdom
+
+A collection of suggested reading related to what we have learned in this class. It has been a challenging and fun quarter!
+
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Considered by many a must read, even though it is about seven years old now.
+* [Deopimizing a C++ Program](http://stackoverflow.com/q/37361145/645494) - One can learn about how to optimize a program by learning how to make things as bad as possible. The author of the [top answer](http://stackoverflow.com/a/37362225/645494) has some deep insight on Sandybridge architecture.
