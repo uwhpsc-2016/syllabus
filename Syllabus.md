@@ -140,18 +140,19 @@ Biweekly homework is automatically collected every other **Friday at 5:00pm PST*
   * Primary Reference:
   * Secondary Reference:
     * [Writing Paralell Libraries with MPI](http://htor.inf.ethz.ch/publications/img/hoefler-mpi-libraries.pdf) - an interesting summary article on techniques for writing shared object libraries that run on MPI.
-* Thu: Adaptive Quadrature, Recursion, and Load Balancing
-  * Primary Reference:
-  * Secondary Reference:
-    * [Running MPI Jobs](https://www.open-mpi.org/faq/?category=running#mpirun-specify-hosts) - guide on running MPI code. in particular, how to run on remote machines.2
+* Thu: (Cancelled)
 * **Homework #4 Assigned**
 * **Fri: Homework #3 Due @ 5:00pm**
 
 ## Week 9: 23 May - 27 May
 
 * **Quiz #8: Advanced MPI and Parallelism Performance Concerns**
-* Tue: Code Profilers and More Debugging Tools
+* Tue: Adaptive Quadrature, Recursion, and Load Balancing
   * Primary Reference:
+    * [OpenMP Sections](https://computing.llnl.gov/tutorials/openMP/#SECTIONS)
+    * [Running MPI Jobs](https://www.open-mpi.org/faq/?category=running#mpirun-specify-hosts) - guide on running MPI code, such as on remote machines.
+  * Secondary Reference:
+    * [Nested Parallelism](https://docs.oracle.com/cd/E19059-01/stud.10/819-0501/2_nested.html)
 * Thu: *Guest Lecture by Daniel Shapero* Sparse Matrices
   * Primary Reference:
 
