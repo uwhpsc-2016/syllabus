@@ -178,3 +178,7 @@ A collection of suggested reading related to what we have learned in this class.
 
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) - Considered by many a must read, even though it is about seven years old now.
 * [Deopimizing a C++ Program](http://stackoverflow.com/q/37361145/645494) - One can learn about how to optimize a program by learning how to make things as bad as possible. The author of the [top answer](http://stackoverflow.com/a/37362225/645494) has some deep insight on Sandybridge architecture.
+* [Unmaintainable Code](https://www.thc.org/root/phun/unmaintain.html) - How to secure your job by writing code such that it is nearly impossible for someone else to contribute to it.
+* [The Green Place - Eli Bendersky's Website](http://eli.thegreenplace.net) - Bendersky is a Googler whose programming insights are pretty incredible. I'm always fascinated with his posts which usually set me on a Wiki/Google path for the rest of the dat.
+* [Stutter's Mill](https://herbsutter.com) - Herb Stutter is a software architecht at Microsoft who has been foundational in the recent updates to the C++ programming language. His blog, though mostly on developments in the language, contants some very insightful posts about C++ internals.
+* [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html) - Learn what it was like to be a "Real Programmer".
